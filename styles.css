@@ -1,0 +1,58 @@
+/* Body background color and font settings */
+body {
+  background-color: #1f1f1f;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+/* Container styles */
+.container {
+  min-width: 300px;
+  margin: 0 auto;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+/* Heading styles */
+h1 {
+  font-size: 1rem;
+  margin-top: 0;
+}
+
+/* Subheading styles */
+
+
+/* Button styles */
+.btn {
+  font-size: 1.0rem;
+  padding: 0.5rem 1.25rem;
+  border-radius: 1rem;
+  background-color: #6c757d;
+  border-color: #6c757d;
+  margin-bottom: 1.0rem;
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+.btn:hover {
+  background-color: #495057;
+  border-color: #495057;
+}
+
+/* Success and error message styles */
+.alert {
+  font-size: 0.875rem;
+  border-radius: 0.5rem;
+  margin-top: 1.25rem;
+}
+
+.alert-success {
+  background-color: #28a745;
+  border-color: #28a745;
+  color: #fff;
+}
+
+.alert-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: #fff;
+}
