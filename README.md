@@ -14,7 +14,7 @@ To use the Image Scraper Plugin, simply follow these steps:
 - Unzip the downloaded file.
 - Open your browser and go to the extensions page (chrome://extensions for Chrome, about:addons for Firefox).
 - Enable Developer Mode.
-- Click on "Load unpacked" nd select the unzipped folder of the plugin.
+- Click on "Load unpacked" and select the unzipped folder of the plugin.
 
 
 ## Contributing
